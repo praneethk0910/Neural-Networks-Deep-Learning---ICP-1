@@ -11,3 +11,5 @@ Name: Praneeth Kumar Annapureddy ID: 700747594
 2.Replace each occurrence of ‘python’ with ‘pythons’
 
 3.Letter grade based on an input class score, using if statement conditions
+
+Code File - ICP_1_Spring24.ipynb Document- ICP_1_Spring24.DOCX
